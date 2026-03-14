@@ -1,4 +1,4 @@
-# A Wearable Functional Near-Infrared Spectroscopy (fNIRS) based Brain Interface
+# OpenNIRScap: An Open-Source, Low-Cost Wearable Near-Infrared Spectroscopy-based Brain Interfacing Cap
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e845183c-7722-4132-92f5-48b59a016dfe" alt="Device Overview" width="400"/>
